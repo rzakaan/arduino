@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+attiny
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+
+digistump
+https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
+
